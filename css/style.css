@@ -1,0 +1,7 @@
+.divider {
+  position:absolute;
+  left:50%;
+  top:20%;
+  bottom:30%;
+  border-left:0.1em solid white;
+}
